@@ -1,0 +1,7 @@
+{
+  "name": "PlacementPro AI",
+  "description": "AI-powered campus placement preparation platform for engineering students featuring coding practice, aptitude, AI mock interviews, and personalized study plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
